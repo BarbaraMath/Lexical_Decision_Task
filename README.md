@@ -6,7 +6,9 @@ The underlying processes of word semantic memory have been in the center of rese
 What is more, it has been observed that decision maker is able to identify the correct word faster, when they are presented with pairs of semantically related words (e.g. doctor- nurse) in comparison to unrelated stimuli (e.g. doctor – butter). This phenomenon is called _semantic priming_ and it occurs because the priming word activates related concepts in the lexicon, facilitating the recognition of the word presented afterwards (Joordens & Becker, 1997).
 
 ### Stimuli
-The word pairs are based on the study of White (1986), but many of them have been assigned randomly to their opposite category (related words-related non-words and vice versa). Also, the pseudo-words were created by the Multilingual Pseudo-word Generator 'Wuggy' (Keuleers & Brysbaert, 2010) and consist of degraded real words with an overlap of 2/3. We collected 45 pairs in each of the four categories, resulting in 180 trials. Participants are presented with pairs of words; first the priming word flashes very quickly, and then the target word is presented, and they have to decide if it is a word or a pseudo-word. In an effort to manipulate the difficulty of the task, we chose only non-words that are orthographically legal (e.g. pluset). We avoided orthographically illegal words (e.g. brnae) and pseudo- homophones (e.g. brane) (Yap, Balota & Tan, 2012).
+The word pairs are based on the study of White (1986), but many of them have been assigned randomly to their opposite category (related words-related non-words and vice versa). Also, the pseudo-words were created by the Multilingual Pseudo-word Generator 'Wuggy' (Keuleers & Brysbaert, 2010) and consist of degraded real words with an overlap of 2/3. We collected 45 pairs<sup>1</sup> in each of the four categories, resulting in 180 trials. Participants are presented with pairs of words; first the priming word flashes very quickly, and then the target word is presented, and they have to decide if it is a word or a pseudo-word. In an effort to manipulate the difficulty of the task, we chose only non-words that are orthographically legal (e.g. pluset). We avoided orthographically illegal words (e.g. brnae) and pseudo- homophones (e.g. brane) (Yap, Balota & Tan, 2012).
+
+<sup>1</sup> word pairs have not been uploaded yet, neither the condition mat files, which are requested in order to run the experiment
 
 ### Hypotheses:
 1. RTs for recognizing semantically related words will be faster than RT for recognizing semantically unrelated words.
@@ -69,5 +71,6 @@ _This code was co-created with Tiffany Matej Hrkalovic._
 ### References
 
 - Joordens, S., & Becker, S. (1997). The long and short of semantic priming effects in lexical decision. Journal of Experimental Psychology: Learning, Memory, and Cognition, 23(5), 1083 -1105.
-- Yap, M. J., Balota, D. A., & Tan, S. E. (2013). Additive and interactive effects in semantic priming: Isolating lexical and decision processes in the lexical decision task. Journal of Experimental Psychology: Learning, Memory, and Cognition, 39(1), 140.
+- Keuleers, E., &Brysbaert, M. (2010). Wuggy: A multilingual pseudoworgenerator. Behavior Research Methods 42(3), 627-633.
 - White, H. (1986). Semantic priming of nonwords in lexical decision. The American journal of psychology, 479-485.
+- Yap, M. J., Balota, D. A., & Tan, S. E. (2013). Additive and interactive effects in semantic priming: Isolating lexical and decision processes in the lexical decision task. Journal of Experimental Psychology: Learning, Memory, and Cognition, 39(1), 140.
