@@ -64,7 +64,7 @@ The word pairs are based on the study of White (1986), but many of them have bee
 
 3. Writing instructions within a script: based on the fact that instructions are too long it will make the script longer and wider in size. In the future it might be useful to use a combination of read text built-in-functions or uploading the text from .doc or .txt files, transferring them to a char variable and plotting them to a figure.
 
-_This code was co-created with Tiffany Matej Hrkalovic_
+_This code was co-created with Tiffany Matej Hrkalovic._
 
 ### References
 
